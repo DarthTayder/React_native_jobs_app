@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "aws-sdk": "^2.1692.0",
     "axios": "^1.7.9",
     "expo": "^52.0.31",
     "expo-constants": "~17.0.2",
